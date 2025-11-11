@@ -1,2 +1,2 @@
-https://github.com/NikolayUsenko/ono-tebe-nado-ad
+https://github.com/NikolayUsenko/ono-tebe-nado
 
